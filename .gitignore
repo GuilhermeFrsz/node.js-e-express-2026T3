@@ -8,6 +8,9 @@ package-lock.json
 **/package.json
 **/package-lock.json
 
+# Build outputs
+**/bin/
+**/obj/
 
 # Ignorar o histórico do projeto (contexto do professor)
 /history.md
@@ -30,7 +33,7 @@ npm-debug.log*
 #Aula05
 #/Aula06
 #/Aula07
-/Aula08
+#/Aula08
 /Aula09
 /Aula10
 
@@ -47,7 +50,6 @@ npm-debug.log*
 # Recursos Internos
 /GEMINI.md
 /memories.md
-
 
 
 
