@@ -34,8 +34,8 @@ npm-debug.log*
 #/Aula06
 #/Aula07
 #/Aula08
-/Aula09
-/Aula10
+#/Aula09
+#/Aula10
 
 # Labs
 #/labNode2
@@ -45,7 +45,7 @@ npm-debug.log*
 /Tests
 /docs
 # Base de Dados
-/database
+#/database
 
 # Recursos Internos
 /GEMINI.md
